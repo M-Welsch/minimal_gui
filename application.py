@@ -1,4 +1,4 @@
-from PySide2.QtWidgets import QApplication
+from PySide6.QtWidgets import QApplication
 
 from view.minimal_gui_main_window import MinimalGUIMainWindow
 

@@ -1,7 +1,7 @@
 
-from PySide2.QtCore import QFile
-from PySide2.QtUiTools import QUiLoader
-from PySide2.QtWidgets import QMainWindow, QWidget
+from PySide6.QtCore import QFile
+from PySide6.QtUiTools import QUiLoader
+from PySide6.QtWidgets import QMainWindow, QWidget
 
 from resources import resources_rc  # needs to be here for self._load_ui(":/ui/main_window.ui") to work
 
