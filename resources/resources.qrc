@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="ui">
+    <file alias="minimal_main_window.ui">ui/minimal_main_window.ui</file>
+  </qresource>
+</RCC>
